@@ -58,7 +58,8 @@ This project demonstrates the use of **Adversarial Inverse Reinforcement Learnin
 
 AIRL Pipeline Architecture for Port Routing Problem:
 
-[1]
+<img width="1024" height="327" alt="generated-image" src="https://github.com/user-attachments/assets/d492cb84-5d4f-4022-b370-285c98ad020e" />
+
 
 ---
 
