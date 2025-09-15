@@ -26,7 +26,7 @@ time_split = timedelta(hours=3)
 distance_split = 10000  # meters
 speed_split = 40  # knots
 start_time = datetime(2024, 1, 1, 0, 0, 0)
-end_time = datetime(2024, 4, 3, 23, 59, 59)
+end_time = datetime(2024, 4, 30, 23, 59, 59)
 
 # -------------------------------
 # 2. Load World Port Index as reference data
